@@ -4,5 +4,5 @@ This is the implementation of [Knowledge Distillation for Multi-task Learning](h
 <!-- ![image1](./figure/0001.jpg) -->
 <figure class="image">
   <img src="./figure/0001.jpg">
-  <center><figcaption>here is the caption</figcaption></center>
+  <figcaption><center>here is the caption</center></figcaption>
 </figure>
