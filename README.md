@@ -16,7 +16,7 @@ This is the implementation of [Knowledge Distillation for Multi-task Learning](h
 
 ### Prepare dataset
 
-We use the preprocessed [`NYUv2` dataset](https://www.dropbox.com/s/p2nn02wijg7peiy/nyuv2.zip?dl=0) provided by [this repo](https://github.com/lorenmt/mtan). Download the dataset and place the dataset folder in `./data/`
+We use the preprocessed [`NYUv2` dataset](https://www.dropbox.com/sh/86nssgwm6hm3vkb/AACrnUQ4GxpdrBbLjb6n-mWNa?dl=0) provided by [this repo](https://github.com/lorenmt/mtan). Download the dataset and place the dataset folder in `./data/`
 
 ### Our method
 
