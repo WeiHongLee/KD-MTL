@@ -60,7 +60,7 @@ We thank Shikun Liu and Ozan Sener for their source code of [MTAN](https://githu
 For any question, you can contact `w.h.li@ed.ac.uk`.
 
 ## Citation
-If you found this code/work to be useful in your research, please cite:
+If you use this code for a publication, please kindly cite:
 ```
 @inproceedings{li2020knowledge,
   title={Knowledge Distillation for Multi-task Learning},
